@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Apple iPhone 11 64GB",
+            "default_image_url": "https://cdn.dsmcdn.com/ty27/product/media/images/20201126/16/32765474/113335703/1/1_org_zoom.jpg",
+            "price": "7.196",
+            "brand_name": "Apple",
+            "description": "Apple iPhone 11 64GB Beyaz Cep Telefonu (Apple Türkiye Garantili) Aksesuarsız Kutu|*|2 Yıl Apple Türkiye Garantilidir. Kutu içeriğinde iPhone ve USB-C - Lightning Kablosu bulunmaktadır. Adaptör ve Kulaklık bulunmaz.|*|Bu üründen en fazla 1 adet sipariş verilebilir. 1 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|Kampanya fiyatından satılmak üzere 10 adetten fazla stok sunulmuştur.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.|*|Bir ürün birden fazla satıcı tarafından satılabilir. Ürün liste ve detay sayfalarında tüketici memnuniyeti göz önüne alınarak fiyat avantajı, teslimat hızı, iade oranları ve genel hizmet kalitesine göre belirlenmiş puanı en yüksek satıcı görünür satıcı olur. Diğer satıcılar, ürün detay sayfasında alternatif olarak listelenirler."
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 12 Pro 128GB",
+            "default_image_url": "https://cdn.dsmcdn.com/ty33/product/media/images/20201215/10/38634769/113174465/1/1_org_zoom.jpg",
+            "price": "13.968 ",
+            "brand_name": "Apple",
+            "description": "Apple iPhone 12 Pro 128GB Mavi Cep Telefonu (Apple Türkiye Garantili)|*|2 yıl Apple Türkiye Garantilidir. Kutu içeriğinde iPhone ve Usb-C - Lightning kablosu bulunmaktadır.|*|Bu üründen en fazla 1 adet sipariş verilebilir. 1 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.|*|Bir ürün birden fazla satıcı tarafından satılabilir. Ürün liste ve detay sayfalarında tüketici memnuniyeti göz önüne alınarak fiyat avantajı, teslimat hızı, iade oranları ve genel hizmet kalitesine göre belirlenmiş puanı en yüksek satıcı görünür satıcı olur. Diğer satıcılar, ürün detay sayfasında alternatif olarak listelenirler."
+        },
+        {
+            "id": 3,
+            "name": "Samsung Galaxy Z Flip 256 GB",
+            "default_image_url": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty100/product/media/images/20210406/14/f2209a85/63909964/1/1_org_zoom.jpg",
+            "price": "8.092",
+            "brand_name": "Samsung",
+            "description": "Samsung Galaxy Z Flip 256 GB Siyah Cep Telefonu (Samsung Türkiye Garantili)|*|Stok Kodu: SM-F700FZKATUR|*|Stok Adı: SAMSUNG SM-F700FZKATUR GALAXY Z FLİP 256GB SİYAH GSM|*|Marka:SAMSUNG|*|Samsung Türkiye garantisi altındadır. Ürün açıldıktan sonra 2 yıl süresince, Samsung Türkiye yetkili servislerinden garanti kapsamı dahilinde ücretsiz faydalanabilirsiniz.|*|Bu üründen en fazla 1 adet sipariş verilebilir. 1 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|Kampanya fiyatından satılmak üzere 10 adetten fazla stok sunulmuştur.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.|*|Bir ürün birden fazla satıcı tarafından satılabilir. Ürün liste ve detay sayfalarında tüketici memnuniyeti göz önüne alınarak fiyat avantajı, teslimat hızı, iade oranları ve genel hizmet kalitesine göre belirlenmiş puanı en yüksek satıcı görünür satıcı olur. Diğer satıcılar, ürün detay sayfasında alternatif olarak listelenirler."
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy S20 Ultra Kozmik",
+            "default_image_url": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty99/product/media/images/20210407/02/194f940c/63719451/1/1_org_zoom.jpg",
+            "price": "8.898",
+            "brand_name": "Samsung",
+            "description": "Samsung Galaxy S20 Ultra Kozmik Gri Çift Sim Cep Telefonu (Samsung Türkiye Garantili)|*|Galaxy S20 Ultra Kozmik Gri Çift Sim Cep Telefonu (Samsung Türkiye Garantili)|*|Bu üründen en fazla 1 adet sipariş verilebilir. 1 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|Kampanya fiyatından satılmak üzere 5 adetten az stok bulunmaktadır.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir."
+        },
+        {
+            "id": 5,
+            "name": "HP Pavilion 15-ec2021nt",
+            "default_image_url": "https://cdn.dsmcdn.com/ty165/product/media/images/20210827/17/123277321/234067844/1/1_org_zoom.jpg",
+            "price": "7.196",
+            "brand_name": "HP",
+            "description": "HP Pavılıon 15-ec2021nt 434l6ea R5-5600h 8gb-ddr4 512gb-ssd M.2 4gb-rtx3050 15,6' 144hz Ips Freedos|*|Mikroişlemci : AMD Ryzen™ 5 5600H (4,2 GHz'e kadar maksimum hızda saat frekansı, 16 MB L3 önbellek, 6 çekirdek, 12 iş parçacığı) Chipset : Tümleşik AMD SoC Bellek, standart : 8 GB DDR4-3200 MHz RAM (2 x 4 GB) Video Grafik : NVIDIA® GeForce RTX™ 3050 Dizüstü Bilgisayar GPU (4 GB GDDR6 ayrılmış) Sabit Sürücü : 512 GB PCIe® NVMe™ M.2 SSD Optik sürücü : Optik sürücü dahil değildir Ekran : 39,6 cm (15,6 inç) diyagonal, FHD (1920 x 1080), 144 Hz, IPS, mikro kenarlı, yansımasız, 250 nit, %45 NTSC Kablosuz Bağlanabilirlik : Realtek Wi-Fi CERTIFIED 6™ (2x2) ve Bluetooth® 5,2 birleşimi (Gigabit veri hızını destekler) Ağ Arayüzü : Tümleşik 10/100/1000 GbE LAN Genişleme yuvaları : 1 multi-format SD ortam kartı okuyucusu Harici Bağlantı Noktaları :1 SuperSpeed USB Type-C® 5 Gbps sinyal hızı|*|1 SuperSpeed USB Type-A 5 Gbps sinyal hızı|*|1 USB 2,0 Type-A (HP Uyku ve Şarj)|*|1 HDMI 2.0|*|1 RJ-45|*|1 AC smart pin|*|1 birleşik kulaklık/mikrofon Minimum boyutlar (G x D x Y) : 36 x 25,7 x 2,35 cm Ağırlık : 1,98 kg Güç kaynağı türü : 200 W Akıllı AC güç adaptörü Pil Türü : 3 hücreli, 52,5 Wh Lityum iyon polimer Pil ömrü karma kullanımı : 6 saate kadar Video Kayıttan Yürütme Pil Ömrü : 9 saat 15 dakikaya kadar Web kamerası : Bütünleşik çift dizi dijital mikrofona sahip HP True Vision 720p HD kamera Ses özellikleri : B&O ses sistemi|*|Çift hoparlör|*|HP Audio Boost|*|Bu üründen en fazla 10 adet sipariş verilebilir. 10 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|Kampanya fiyatından satılmak üzere 10 adetten fazla stok sunulmuştur.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir."
+        },
+        {
+            "id": 6,
+            "name": "ACER Nitro Ryzen 5 4600h",
+            "default_image_url": "https://cdn.dsmcdn.com/ty152/product/media/images/20210802/11/114931057/76531184/1/1_org_zoom.jpg",
+            "price": "7.662",
+            "brand_name": "ACER",
+            "description": "ACER Nitro Ryzen 5 4600h 8 Gb Ram 512 Gb Ssd Gtx 1650 Ti Linux Nh.q9hey.002|*|Bu üründen en fazla 1 adet sipariş verilebilir. 1 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|Kampanya fiyatından satılmak üzere 100 adetten fazla stok sunulmuştur.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir."
+        },
+        {
+            "id": 7,
+            "name": "Apple Macbook Pro 13",
+            "default_image_url": "https://cdn.dsmcdn.com/ty27/product/media/images/20201126/16/32765474/113335703/1/1_org_zoom.jpg",
+            "price": "12.064",
+            "brand_name": "Apple",
+            "description": "Apple Macbook Pro 13' M1 8c Cpu 256gb Ssd Space Grey Myd82tu/a|*|24 Ay Apple Türkiye Garantisi kapsamındadır. Özellikler İşletim sistemi yazılımı : macOS Big Sur Wi-Fi standartları : 802.11a, 802.11b, 802.11g, Wi-Fi 4 (802.11n), Wi-Fi 5 (802.11ac), Wi-Fi 6 (802.11ax) Ekran çözünürlüğü : 2560 x 1600 Piksel Dokunmatik ekran : Hayir Bluetooth : Evet Bluetooth versiyonu : 5 Muhafaza malzemesi : Alüminyum Pil teknolojisi : Lityum Polimer (LiPo) Ekran boyutu : 13.3 ''|*|Bu üründen en fazla 1 adet sipariş verilebilir. 1 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.|*|Kampanya fiyatından satılmak üzere 100 adetten fazla stok sunulmuştur.|*|İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.|*|Bir ürün birden fazla satıcı tarafından satılabilir. Ürün liste ve detay sayfalarında tüketici memnuniyeti göz önüne alınarak fiyat avantajı, teslimat hızı, iade oranları ve genel hizmet kalitesine göre belirlenmiş puanı en yüksek satıcı görünür satıcı olur. Diğer satıcılar, ürün detay sayfasında alternatif olarak listelenirler."
+        }
+    ]
+}
